@@ -7,5 +7,5 @@ __pycache__/
 *.pyc
 
 # Data files (keep raw scraped data out of Git history if large)
-data/raw/*
+data/*
 !data/raw/.gitkeep
